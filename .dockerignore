@@ -1,0 +1,5 @@
+bin/
+*.bat
+.git
+.gitignore
+sources.txt
